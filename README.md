@@ -1,24 +1,13 @@
-# **Titulo 1** #
-## **Titulo** 2 ##
-###
-####
+# **Benjamin Tomas Gonzalez** #
 
-* Viñeta1
-* Viñeta2
-* Viñeta2
-* Viñeta3
-* Viñeta4
-    * Viñeta4.1
-  
-      
+## **Electrical engineering**  ##
 
 ---
 ---
-Separador
 
----
----
-Separador 1
+* Electrical problems solve with code.
+* Simulation of electric/magnetic problems
+* Data analysis
 
-
+    
 
