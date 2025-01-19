@@ -1,6 +1,6 @@
-# **Benjamin Tomas Gonzalez** #
+# **Benjamìn Tomás González** #
 
-## **Electrical engineering**  ##
+## **Electrical energy engineering**  ##
 
 ---
 ---
