@@ -1,13 +1,17 @@
 # **Benjamín Tomás González** #
 
-## **Electrical energy engineering**  ##
 
----
+I'm an engineering (Electrical energy) student,  
+i'm interesting in apply machine learning and data analysis to solve problems in my work field.  
 ---
 
-* Electrical problems solve with code.
-* Simulation of electric/magnetic problems
-* Data analysis
+🔵 Python.  
+
+🔵 Electrical problems solve with code.  
+
+🔵 Simulation of electric/magnetic systems.   
+
+🔵 Data analysis.  
 
     
 
